@@ -1,9 +1,7 @@
 #!usr/bin/python
 # _*_ coding: utf-8 _*_
-
-"""
-    python_weibo.py by xianhu
-    """
+#python 2.7.10
+    
 
 import re
 import rsa
